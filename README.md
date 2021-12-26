@@ -33,3 +33,48 @@ Part 4) Define tokenizer and respective functions for data preprocessing
 Part 5) Define vectorizer and consine similarity calculator
 
 Part 6) Main program divided into 15 steps
+
+
+## Example outline
+
+**Documents used:**
+
+**1)	Doc1_FCB**
+
+Description: Snippet from Wikipedia article of FC Bayern Basketball team
+
+Type: PDF
+
+Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich_(basketball)
+
+**2)	Doc2_FCBB**
+
+Description: Snippet from Wikipedia article of FC Bayern soccer team
+
+Type: Word
+
+Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich
+
+**3)	Doc3_Roses**
+
+Description: Snippet from Wikipedia article about roses
+
+Type: PDF
+
+Source: https://en.wikipedia.org/wiki/Rose
+
+**4)	Doc4_Roses_2**
+
+Description: Snippet from Wikipedia article about roses but different paragraph
+
+Type: Word
+
+Source: https://en.wikipedia.org/wiki/Rose
+
+
+**Result:**
+
+Please see file "Document similarity checker_Example outline.pdf"
+
+## Example outline
+Thank you for using my program!
