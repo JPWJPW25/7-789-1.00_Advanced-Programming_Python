@@ -2,3 +2,6 @@
 Similarity checker - Python
 
 Date: 26.12.2021
+
+
+Project description:
