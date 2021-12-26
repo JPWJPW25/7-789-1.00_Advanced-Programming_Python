@@ -13,6 +13,7 @@ The program lets you compare documents and compute their similarity. You can cho
 Based on the similarity you can for example identify plagiats or copies of text that just have been modified by changing word orders. The computed similarity is 
 is computed by using the ntlk and scikit-learn libraries by applying the concept of cosine similarity.
 
+Program: "Document_similarity_checker.py"
 
 ## Dependencies 
 Please install the following libraries to make the code work
