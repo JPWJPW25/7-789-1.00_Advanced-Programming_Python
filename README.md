@@ -1,7 +1,11 @@
 # 7-789-1.00_Advanced-Programming_Python - Individual project
-Similarity checker - Python
 
-Date: 26.12.2021
+**TTTLE: SIMILARITY CHECKER**
 
+**Date:** 26.12.2021
 
-Project description:
+**Name:** Jan-Philipp Wittmann
+
+**Student_id:** 16.621-120
+
+**Project description:**
