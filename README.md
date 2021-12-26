@@ -6,7 +6,7 @@
 
 **Name:** Jan-Philipp Wittmann
 
-**Student_id:** 16.621-120
+**Student_id:** 16-621-120
 
 ## Project description:
 
