@@ -9,6 +9,8 @@
 **Student_id:** 16-621-120
 
 ## Project description
+Welcome to the document similarity checker. The program lets you compare two documents and compute their similarity. 
+Based on the similarity you can for example identify plagiats or copies of text that just have been modified by changing word orders.
 
 
 ## Dependencies 
