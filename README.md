@@ -10,8 +10,9 @@
 
 ## Program description
 The program lets you compare documents and compute their similarity. You can choose the number of files you want to compare. The program is compatible with Word and PDF files.
-Based on the similarity you can for example identify plagiarism or copies of text that just have been modified by changing word orders. The computed similarity is 
-is computed by using the ntlk and scikit-learn libraries by applying the concept of cosine similarity.
+Based on the similarity you can for example identify plagiarism or copies of text that just have been modified by changing word orders. The computed similarity 
+is computed by using the ntlk and scikit-learn libraries and by applying the concept of cosine similarity.
+Results are stored in a dataframe and visualized in a lower triangle heatmap.
 
 Program: "Document_similarity_checker.py"
 
