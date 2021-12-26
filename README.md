@@ -8,8 +8,8 @@
 
 **Student_id:** 16-621-120
 
-## Project description
-Welcome to the document similarity checker. The program lets you compare two documents and compute their similarity. 
+## Program description
+The program lets you compare documents and compute their similarity. You can choose the number of files you want to compare. The program is compatible with Word and PDF files.
 Based on the similarity you can for example identify plagiats or copies of text that just have been modified by changing word orders.
 
 
@@ -41,41 +41,29 @@ Part 6) Main program divided into 15 steps
 
 **Documents used:**
 
-**1)	Doc1_FCB**
 
-Description: Snippet from Wikipedia article of FC Bayern Basketball team
+1) Doc1_FCB
+    - Description: Snippet from Wikipedia article of FC Bayern Basketball team
+    - Type: PDF
+    - Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich_(basketball)
 
-Type: PDF
+2)	Doc2_FCBB
+    - Description: Snippet from Wikipedia article of FC Bayern soccer team
+    - Type: Word
+    - Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich
 
-Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich_(basketball)
+3)	Doc3_Roses
+    - Description: Snippet from Wikipedia article about roses
+    - Type: PDF
+    - Source: https://en.wikipedia.org/wiki/Rose
 
-**2)	Doc2_FCBB**
-
-Description: Snippet from Wikipedia article of FC Bayern soccer team
-
-Type: Word
-
-Source: https://en.wikipedia.org/wiki/FC_Bayern_Munich
-
-**3)	Doc3_Roses**
-
-Description: Snippet from Wikipedia article about roses
-
-Type: PDF
-
-Source: https://en.wikipedia.org/wiki/Rose
-
-**4)	Doc4_Roses_2**
-
-Description: Snippet from Wikipedia article about roses but different paragraph
-
-Type: Word
-
-Source: https://en.wikipedia.org/wiki/Rose
+4)	Doc4_Roses_2
+    - Description: Snippet from Wikipedia article about roses but different paragraph
+    - Type: Word
+    - Source: https://en.wikipedia.org/wiki/Rose
 
 
 **Result:**
-
 Please see file "Document similarity checker_Example outline.pdf"
 
 ## Example outline
