@@ -8,4 +8,16 @@
 
 **Student_id:** 16.621-120
 
-**Project description:**
+## Project description:
+
+
+## Dependencies 
+Please install the following libraries to make the code work
+```bash
+pip install scikit-learn
+pip install nltk
+pip install pdfplumber
+pip install docx2txt
+pip install seaborn
+```
+
