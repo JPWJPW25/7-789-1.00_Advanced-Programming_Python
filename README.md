@@ -10,7 +10,8 @@
 
 ## Program description
 The program lets you compare documents and compute their similarity. You can choose the number of files you want to compare. The program is compatible with Word and PDF files.
-Based on the similarity you can for example identify plagiats or copies of text that just have been modified by changing word orders.
+Based on the similarity you can for example identify plagiats or copies of text that just have been modified by changing word orders. The computed similarity is 
+is computed by using the ntlk and scikit-learn libraries by applying the concept of cosine similarity.
 
 
 ## Dependencies 
