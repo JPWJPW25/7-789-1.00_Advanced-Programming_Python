@@ -8,7 +8,7 @@
 
 **Student_id:** 16-621-120
 
-## Project description:
+## Project description
 
 
 ## Dependencies 
@@ -20,4 +20,16 @@ pip install pdfplumber
 pip install docx2txt
 pip install seaborn
 ```
+## Structure of the program
 
+Part 1) Import packages and specific functions
+
+Part 2) Define functions to convert PDF or Word files to text files
+
+Part 3) File handling functions for text files
+
+Part 4) Define tokenizer and respective functions for data preprocessing
+
+Part 5) Define vectorizer and consine similarity calculator
+
+Part 6) Main program divided into 15 steps
